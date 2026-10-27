@@ -1,10 +1,10 @@
-# WhatsApp Baileys Lsqltmux-Code
+# WhatsApp Lsqltmux-Bailz Lsqltmux-Code
 
 <p align="center">
   <img src="https://files.catbox.moe/8x2ano.jpg" alt="Thumbnail" />
 </p>
 
-WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
+WhatsApp Lsqltmux-Bailz is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
 
 Actively developed and maintained, baileys continuously receives updates to enhance stability and performance. One of the main focuses is to improve the pairing and authentication processes to be more stable and secure. Pairing features can be customized with your own codes, making the process more reliable and less prone to interruptions.
 
@@ -383,7 +383,7 @@ await sock.sendMessage(target, {
 
 ---
 
-Why Choose WhatsApp Baileys Lsqltmux-Code?
+Why Choose WhatsApp Lsqltmux-Bailz Lsqltmux-Code?
 
 Because this library offers high stability, full features, and an actively improved pairing process. It is ideal for developers aiming to create professional and secure WhatsApp automation solutions. Support for the latest WhatsApp features ensures compatibility with platform updates.
 
@@ -403,4 +403,4 @@ Technical Notes
 
 For complete documentation, installation guides, and implementation examples, please visit the official repository and community forums. We continually update and improve this library to meet the needs of developers and users of modern WhatsApp automation solutions.
 
-Thank you for choosing WhatsApp Baileys Lsqltmux-Code as your WhatsApp automation solution!
+Thank you for choosing WhatsApp Lsqltmux-Bailz Lsqltmux-Code as your WhatsApp automation solution!
