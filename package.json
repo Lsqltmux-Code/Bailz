@@ -1,7 +1,7 @@
 {
     "name": "@lsqltmux-code/baileys",
     "type": "module",
-    "version": "8.5.0",
+    "version": "8.5.1",
     "description": "WhatsApp API Modification By Lsqltmux-Code",
     "keywords": [
         "whatsapp",
